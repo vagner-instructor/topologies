@@ -347,6 +347,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q4mixgEFbHkuQjOPyIEY-0" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" vertex="1" parent="QtDrsjLTqJrsR1SgHrBM-1">
+          <mxGeometry x="280" y="348" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
