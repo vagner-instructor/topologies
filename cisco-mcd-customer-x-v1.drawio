@@ -607,7 +607,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyj14IGenTHUBXDu5T5S-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="QtDrsjLTqJrsR1SgHrBM-1" source="QtDrsjLTqJrsR1SgHrBM-38" target="Iyj14IGenTHUBXDu5T5S-8" edge="1">
+        <mxCell id="Iyj14IGenTHUBXDu5T5S-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;fillColor=#008a00;strokeColor=#005700;" parent="QtDrsjLTqJrsR1SgHrBM-1" source="QtDrsjLTqJrsR1SgHrBM-38" target="Iyj14IGenTHUBXDu5T5S-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1380" y="570" as="sourcePoint" />
             <mxPoint x="1430" y="520" as="targetPoint" />
@@ -753,6 +753,15 @@
         </mxCell>
         <mxCell id="N5tgVgx7mj8_JrnxRYyq-89" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 6px;&quot;&gt;172.16.2.0/16&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.bottomButton;rSize=5;fontColor=#333333;" vertex="1" parent="N5tgVgx7mj8_JrnxRYyq-86">
           <mxGeometry y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N5tgVgx7mj8_JrnxRYyq-92" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;fillColor=#60a917;strokeColor=#2D7600;dashed=1;" edge="1" parent="QtDrsjLTqJrsR1SgHrBM-1" source="QtDrsjLTqJrsR1SgHrBM-25" target="P6FXt5TmoQwu0xZ2oASD-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1718.83" y="339.5" as="sourcePoint" />
+            <mxPoint x="957.5" y="247" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1600" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
